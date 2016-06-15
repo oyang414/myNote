@@ -12,6 +12,8 @@ public class Test {
 		}
 		汽车 s = new 汽车();
 		System.out.println(s.高度);
+		Car c = new Car();
+		System.out.println(c.name);
 		
 	}
 }
