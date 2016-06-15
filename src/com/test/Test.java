@@ -8,7 +8,7 @@ public class Test {
 		}
 		汽车 s = new 汽车();
 		/**
-		 * 这是一个注释11
+		 * 这是一个注释
 		 */
 		System.out.println(s.高度);
 		
