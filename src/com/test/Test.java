@@ -13,7 +13,7 @@ public class Test {
 		汽车 s = new 汽车();//这是中文类
 		System.out.println(s.高度);
 		Car c = new Car();//这是个英文的
-		System.out.println(c.name);
+		System.out.println(c.getName());
 		
 	}
 }
